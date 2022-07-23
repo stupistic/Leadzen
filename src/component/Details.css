@@ -1,0 +1,13 @@
+body {
+  background-color: #f4f7fc;
+}
+.container {
+  width: 100%;
+  height: auto;
+  gap: 10px;
+  padding-top: 10px;
+
+  font-family: "DM Sans", sans-serif;
+  font-family: "Nunito", sans-serif;
+  font-family: "Roboto", sans-serif;
+}
